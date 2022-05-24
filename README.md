@@ -2,7 +2,11 @@
 
 ## Deck
 
+   * [The Hitchhiker's Guide to Pod Security.pdf](KubeCon%20EU%202022%20-%20The%20Hitchhiker's%20Guide%20to%20Pod%20Security.pdf)
+
 ## Recording
+
+  * TBD
 
 ## References
 
