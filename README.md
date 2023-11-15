@@ -6,7 +6,7 @@
 
 ## Recording
 
-  * TBD
+  * [Youtube video - The Hitchhiker's Guide to Pod Security](https://www.youtube.com/watch?v=gcz5VsvOYmI)
 
 ## References
 
